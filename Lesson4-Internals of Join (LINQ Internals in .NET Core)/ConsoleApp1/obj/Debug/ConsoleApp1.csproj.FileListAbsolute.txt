@@ -1,0 +1,5 @@
+C:\Users\Massimiliano Isidori\Desktop\Studi\Linq\Lesson3-Internals of Join (LINQ Internals in .NET Core)\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Massimiliano Isidori\Desktop\Studi\Linq\Lesson3-Internals of Join (LINQ Internals in .NET Core)\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\Linq\Lesson3-Internals of Join (LINQ Internals in .NET Core)\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\Linq\Lesson3-Internals of Join (LINQ Internals in .NET Core)\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Massimiliano Isidori\Desktop\Studi\Linq\Lesson3-Internals of Join (LINQ Internals in .NET Core)\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
